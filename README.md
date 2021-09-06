@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nightrainb0w (Julius)
-- 👀 I’m interested in Political Science, Quantitative Methods and Sushi
+- 👀 I’m interested in Political Science, especially International Relations and Gender in Politics, as well as all Quantitative Methods and Sushi
 - 🌱 I’m currently learning Analysis in R, Automated Text Analysis etc etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything interesting I can be of help with.
 - 📫 How to reach me jdiener@mail.uni-mannheim.de
 
 <!---
